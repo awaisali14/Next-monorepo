@@ -3,6 +3,7 @@
 # dependencies
 home/node_modules
 blog/node_modules
+blog/.next
 /.pnp
 .pnp.js
 
