@@ -1,5 +1,5 @@
-import Link from 'next/link'
-import Image from 'next/image'
+import Link from "next/link";
+import Image from "next/image";
 
 export default function Blog() {
   return (
@@ -8,7 +8,7 @@ export default function Blog() {
       <ul>
         <li>
           <Link href="/post/1">
-            <a>Post 1</a>
+            <a>Post 1 (Hello)</a>
           </Link>
         </li>
         <li>
@@ -27,5 +27,5 @@ export default function Blog() {
         />
       </div>
     </div>
-  )
+  );
 }
